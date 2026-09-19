@@ -4,14 +4,14 @@ ADHD나 집중을 잘 못하는 창작자를 위한 일정 관리 Electron 데�
 
 아직 UI/UX에서 부족한 점이 많습니다.
 
-# 사용된 에이전트 및 스킬
+사용된 에이전트 및 스킬
 - CODEX : GPT 6 Astra / GPT 5.6 Sol
 - Claude CODE : Opus 5 / Sonnet 5
 - Cursor : cursor Grok 4.6
 - Cline : deepseek V4.1 Flash
 - VS code github Copilot
 
-#기본 기능
+# 기본 기능
 
 1. 인박스 Inbox
    - 일단 시간을 생각하지 않고 무엇을 할지 적어두는 브레인 덤프 리스트 입니다.
